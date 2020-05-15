@@ -1,0 +1,6 @@
+application_name=xiaoqing-extension-test-515
+application_version=0.0.1
+application_icon=
+application_description=''
+helm_chart_version=0.0.1
+docker_registry=docker.io/xiaoqing2chen
